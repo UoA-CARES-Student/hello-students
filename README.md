@@ -28,7 +28,7 @@ python main.py
 ```
 
 ## Directory hierarchy & Code structure
-Please provide a directory hierarchy for your project. If you use Ubuntu, you can use this command to get it(tree hello-students)
+Please provide a directory hierarchy for your project. If you use Ubuntu, you can use this command to get it(tree hello-students). Also, you can use this command(git ls-tree -r --name-only HEAD | tree --fromfile) to get the structure under git control. 
 
 <pre>
 hello-students
